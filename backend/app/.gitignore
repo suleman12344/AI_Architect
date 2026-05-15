@@ -1,0 +1,12 @@
+api.py
+dreambooth-floorplan
+images
+
+2d_floor_generator.py
+2d_floorPlanGenerate.py
+
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+echo "backend/app/floor/images/"

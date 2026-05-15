@@ -1,0 +1,7 @@
+generator_jsonFile.py
+images
+
+*.log
+__pycache__/
+*.pyc
+.DS_Store
