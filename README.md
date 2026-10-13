@@ -235,6 +235,18 @@ This project is clearly in an early-to-mid development stage. Some parts are pol
 - `backend/app/main.py` uses a local `diffusers` model path and appears to be a standalone model-generation script rather than a production API route.
 - `core/settings.py` contains hardcoded Django secret values and local-only CORS setup; this should be moved to environment variables before deployment.
 
+  
+
+https://github.com/user-attachments/assets/958df6bb-ba37-413e-bc74-3f0f1226c941
+
+
+
+
+
+
+
+
+
 ## Recommended improvements before production
 
 - Move all secrets and API keys to environment variables
