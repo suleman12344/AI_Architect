@@ -22,6 +22,9 @@ The project is split into two major parts:
    - Built with Django 5 and Django REST Framework
    - Hosts APIs for floor plan generation and chatbot functionality
    - Uses SQLite in development and exposes endpoints under `/api/...`
+  
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/1e02a1d5-7847-4c65-8393-cb1711982d9e" />
+
 
 ## Main features
 
